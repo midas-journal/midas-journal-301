@@ -1,0 +1,9 @@
+ObjectType = Image
+NDims = 3
+DimSize = 100  100   21
+ElementSpacing = 1  1  1
+Position = 0  0  0
+BinaryData = True
+BinaryDataByteOrderMSB = False
+ElementType = MET_UCHAR
+ElementDataFile = itkLabelGeometryImageFilterTestBinaryVolume.raw
